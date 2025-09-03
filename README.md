@@ -23,11 +23,14 @@ Please follow the codebase at [StyleGAN](https://github.com/sangwoomo/FreezeD)
 
 ### Run experiments
 > python search.py
+
 > python finetune.py
+
 > python test.py  ## this is for the sample and evaluation
 
 ### Comparison experiments: L1 pruning and random pruning
 > python L1.py
+
 > python RC.py
 
 ### Results on Animal Face and AFHQ dataset
@@ -42,7 +45,9 @@ Please follow the codebase at [StyleGAN2](https://github.com/rosinality/stylegan
 
 ### Run experiments
 > python search.py
+
 > python train.py ## this is for finetuning
+
 > python generate.py  ## this is for the sample and evaluation
 
 ### Results on FFHQ-256 dataset
